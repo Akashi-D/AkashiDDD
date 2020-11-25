@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    background-color: #fff;
+}
+
+.G-img{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+
+.search-bar{
+    width: 600px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 350px;
+}
+
+button:hover{
+    border-radius: 10px;
+}
+
+.btn1{
+    margin-left: 500px;
+    height: 30px;
+    cursor: pointer;
+    width: 130px;
+    color: #777;
+}
+
+.btn2{
+    margin-left: 30px;
+    height: 30px;
+    cursor: pointer;
+    color: #777;
+    width: 130px;
+}
+
+#little-info{
+    text-align: center;
+}
+
+.meeting-link{
+    text-decoration: none;
+}
+
+.meeting-link:hover{
+    text-decoration: underline;
+}
+
+.lang{
+    text-decoration: none;
+}
+
+.lang:hover{
+    text-decoration: underline;
+}
